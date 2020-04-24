@@ -80,4 +80,6 @@ En el modelo de la dase de datos tenemos tres colecciones, la de Empresa, la de 
 
 ## 3. Referencias
 
-*[Incluya aquí las referencias a sitios de interés, datasets y cualquier otra información que haya utilizado para realizar la tarea y que le puedan ser de utilidad a otras personas que quieran usarlo como referencia]*
+https://docs.mongodb.com/manual/reference/operator/aggregation/graphLookup/
+https://docs.mongodb.com/manual/reference/operator/aggregation/facet/
+https://docs.mongodb.com/manual/reference/operator/aggregation/limit/
