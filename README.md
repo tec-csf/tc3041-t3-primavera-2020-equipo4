@@ -51,11 +51,12 @@ A continuación aparecen descritos los diferentes elementos que forman parte de 
 
 ### 2.1 Modelo de la *base de datos* 
 
-![](database/mongoDB.png)
+
 
 ### 2.2 Arquitectura de la solución
 
-*[Incluya aquí un diagrama donde se aprecie la arquitectura de la solución propuesta, así como la interacción entre los diferentes componentes de la misma.]*
+![](database/mongoDB.png)
+
 
 ### 2.3 Frontend
 
