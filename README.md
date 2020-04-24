@@ -58,4 +58,26 @@ En el modelo de la dase de datos tenemos tres colecciones, la de Empresa, la de 
 ### 2.2 Arquitectura de la solución
 
 ![](database/mongoDB.png)
+### 2.3 Frontend
 
+*[Incluya aquí una explicación de la solución utilizada para el frontend de la tarea. No olvide incluir las ligas o referencias donde se puede encontrar información de los lenguajes de programación, frameworks y librerías utilizadas.]*
+
+#### 2.3.1 Lenguaje de programación
+#### 2.3.2 Framework
+#### 2.3.3 Librerías de funciones o dependencias
+
+### 2.4 Backend
+
+*[Incluya aquí una explicación de la solución utilizada para el backend de la tarea. No olvide incluir las ligas o referencias donde se puede encontrar información de los lenguajes de programación, frameworks y librerías utilizadas.]*
+
+#### 2.4.1 Lenguaje de programación
+#### 2.4.2 Framework
+#### 2.4.3 Librerías de funciones o dependencias
+
+## 2.5 Pasos a seguir para utilizar la aplicación
+
+*[Incluya aquí una guía paso a paso para poder utilizar la aplicación, desde la clonación del repositorio hasta el despliegue de la solución en una plataforma en la nube.]*
+
+## 3. Referencias
+
+*[Incluya aquí las referencias a sitios de interés, datasets y cualquier otra información que haya utilizado para realizar la tarea y que le puedan ser de utilidad a otras personas que quieran usarlo como referencia]*
