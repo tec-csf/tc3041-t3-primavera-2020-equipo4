@@ -1,0 +1,105 @@
+{
+    "$schema": "empresas",
+    "type": "object",
+    "description": "En esta colección se almacenan los datos de la empresa",
+    "required": [
+        "_id",
+        "index",
+        "name",
+        "city",
+        "direction",
+        "ceo",
+        "employee",
+        "type"
+    ],
+    "properties": {
+        "_id": {
+            "type": "string"
+        },
+        "index": {
+            "type": "integer"
+        },
+        "name": {
+            "type": "string"
+        },
+        "city": {
+            "type": "string"
+        },
+        "direction": {
+            "type": "string"
+        },
+        "ceo": {
+            "type": "ceo"
+        },
+        "employee": {
+            "type": "array"
+        }
+    }
+},
+{
+    "$schema": "empleados",
+    "type": "object",
+    "description": "En esta colección se almacenan los datos de los empleados",
+    "required": [
+        "_id",
+        "index",
+        "name",
+        "age",
+        "nationality",
+        "gender",
+        "salary",
+        "email",
+        "phone"
+    ],
+    "properties": {
+        "_id": {
+            "type": "string"
+        },
+        "index": {
+            "type": "integer"
+        },
+        "name": {
+            "type": "string"
+        },
+        "age": {
+            "type": "integer"
+        },
+        "nationality": {
+            "type": "string"
+        },
+        "gender":{
+            "type": "string"
+        },
+        "salary": {
+            "type": "integer"
+        },
+        "email": {
+            "type": "integer"
+        },
+        "phone": {
+            "type": "integer"
+        }
+    }
+},
+{
+    "$schema": "ceo",
+    "type": "object",
+    "description": "En esta colección se encuentran los datos de los CEO.",
+    "required": [
+        "_id",
+        "name",
+        "age"
+    ],
+    "properties": {
+        "_id": {
+            "type": "string",
+        },
+        "name": {
+            "type": "string"
+        
+        },
+        "age": {
+            "type": "string"
+        }
+    }
+}
